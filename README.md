@@ -29,9 +29,10 @@ Make sure you have the following installed on your machine:
    - Create a `.env` file in the root directory.
    - Add the following variables:
      ```env
-     PORT=3000
-     MONGO_URI=your_mongo_db_connection_string
-     SECRET_KEY=your_secret_key_for_authentication
+     COOKIE_SECRET=thisismysecret
+     MONGO_CONNECTION_URL=mongodb://localhost:27017/pizza
+     STRIPE_PRIVATE_KEY=secretprivatekey
+
      ```
 
 4. Start the application:
@@ -42,11 +43,9 @@ Make sure you have the following installed on your machine:
 ## Demo Video
 Check out our [demo video](link_to_your_demo_video) to see the Realtime Pizza Delivery website in action!
 
-## Contributing
-We welcome contributions from the community. Feel free to open issues, create pull requests, or provide feedback to help us improve the Realtime Pizza Delivery website.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+https://github.com/kpushpankar2/Pizza-App/assets/99396103/677d5339-a959-45b2-b28a-d62152416855
+
 
 Happy pizza ordering! 🍕
 
