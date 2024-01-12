@@ -41,7 +41,7 @@ Make sure you have the following installed on your machine:
    ```
 
 ## Demo Video
-Check out our [demo video](link_to_your_demo_video) to see the Realtime Pizza Delivery website in action!
+Check out our demo video to see the Realtime Pizza Delivery website in action!
 
 
 https://github.com/kpushpankar2/Pizza-App/assets/99396103/677d5339-a959-45b2-b28a-d62152416855
